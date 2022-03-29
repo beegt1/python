@@ -1,7 +1,7 @@
 # python
 Just uploading scripts I make along the way
 
-## DNS enumeration script
+### DNS enumeration script
 
 >Listing every record of a Domain you enter :)
 The array of record types include:
