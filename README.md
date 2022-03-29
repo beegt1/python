@@ -1,5 +1,5 @@
 # python
-just uploading scripts I make along the way
+Just uploading scripts I make along the way
 
 ## DNS enumeration script
 
